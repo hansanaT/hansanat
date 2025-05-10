@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hansana</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
+  [![An image of @hansanat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hansanat)](https://holopin.io/@hansanat)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansanat&label=Profile%20views&color=0eb410&style=flat" alt="hansanat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansanat" alt="hansanat" /></a> </p>
@@ -36,7 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansanat&show_icons=true&theme=dark&locale=en" alt="hansanat" /></p>
 
 
-  [![An image of @hansanat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hansanat)](https://holopin.io/@hansanat)
 <!---
 hansanat/hansanat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

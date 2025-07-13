@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hansana</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansanat&label=Profile%20views&color=0eb410&style=flat" alt="hansanat" /> </p>
 
-<h3 align="center">A passionate frontend and backend developer</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
   [![An image of @hansanat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hansanat)](https://holopin.io/@hansanat)
 
